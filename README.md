@@ -1,1 +1,12 @@
-# myFirstRepo
+# myFirstRepc
+
+
+
+
+
+
+
+
+
+
+this is my first code 
